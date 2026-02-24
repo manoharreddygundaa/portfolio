@@ -23,7 +23,7 @@ const skillCategories = [
   title: "Tools & Technologies",
   description: "Development tools and methodologies I use daily",
   icon: Wrench,
-  skills: ["Git & GitHub", "VS Code", "Postman"]
+  skills: ["Git & GitHub", "VS Code", "Postman","Hoppscotch"]
 }];
 
 

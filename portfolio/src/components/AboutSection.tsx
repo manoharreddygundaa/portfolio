@@ -3,7 +3,7 @@ import { Code2, Lightbulb, Users, Zap } from "lucide-react";
 const highlights = [
   {
     icon: Code2,
-    title: "Full-Stack Development",
+    title: "Full-Stack Development(MERN Stack)",
     description: "Building complete web applications from frontend to backend",
   },
   {

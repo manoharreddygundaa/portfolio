@@ -50,7 +50,7 @@ const HeroSection = () => {
                 <Mail size={20} />
               </a>
               <a
-                href="https://github.com"
+                href="https://github.com/manoharreddygundaa"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 rounded-full bg-secondary hover:bg-primary hover:text-primary-foreground transition-all duration-300 shadow-soft"
@@ -58,7 +58,7 @@ const HeroSection = () => {
                 <Github size={20} />
               </a>
               <a
-                href="https://linkedin.com"
+                href="https://www.linkedin.com/in/gunda-manoharreddy-00409027a/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 rounded-full bg-secondary hover:bg-primary hover:text-primary-foreground transition-all duration-300 shadow-soft"
@@ -95,18 +95,21 @@ const HeroSection = () => {
                   <p className="pl-5">
                     <span className="text-[hsl(190_70%_70%)]">role</span>
                     <span className="text-[hsl(173_30%_45%)]">:</span>{" "}
-                    <span className="text-[hsl(150_50%_65%)]">"Full Stack Developer"</span>
+                    <span className="text-[hsl(150_50%_65%)]">"Full Stack Developer(MERN Stack)"</span>
                     <span className="text-[hsl(173_30%_45%)]">,</span>
                   </p>
                   <p className="pl-5">
                     <span className="text-[hsl(190_70%_70%)]">skills</span>
                     <span className="text-[hsl(173_30%_45%)]">:</span>{" "}
                     <span className="text-[hsl(40_70%_65%)]">[</span>
-                    <span className="text-[hsl(150_50%_65%)]">"React"</span>
-                    <span className="text-[hsl(173_30%_45%)]">,</span>{" "}
-                    <span className="text-[hsl(150_50%_65%)]">"Node"</span>
-                    <span className="text-[hsl(173_30%_45%)]">,</span>{" "}
                     <span className="text-[hsl(150_50%_65%)]">"MongoDB"</span>
+                    <span className="text-[hsl(173_30%_45%)]">,</span>{" "}
+                     <span className="text-[hsl(150_50%_65%)]">"Express JS"</span>
+                    <span className="text-[hsl(173_30%_45%)]">,</span>{" "}
+                     <span className="text-[hsl(150_50%_65%)]">"React JS"</span>
+                    <span className="text-[hsl(173_30%_45%)]">,</span>{" "}
+                    <span className="text-[hsl(150_50%_65%)]">"Node JS"</span>
+                    <span className="text-[hsl(173_30%_45%)]">,</span>{" "}
                     <span className="text-[hsl(40_70%_65%)]">]</span>
                   </p>
                   <p><span className="text-[hsl(40_70%_65%)]">{"}"}</span><span className="text-[hsl(173_30%_45%)]">;</span></p>
