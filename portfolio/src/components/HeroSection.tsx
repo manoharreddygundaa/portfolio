@@ -37,7 +37,7 @@ const HeroSection = () => {
                 <a href="/Gunda_Manoharreddy_Resume.pdf" download>Download Resume</a>
               </Button>
               <Button variant="heroOutline" size="lg" asChild>
-                <a href="#projects">View Projects</a>
+                <a href="#/projects">View Projects</a>
               </Button>
             </div>
 
