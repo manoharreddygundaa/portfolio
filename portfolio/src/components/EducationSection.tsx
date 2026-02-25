@@ -12,7 +12,7 @@ const education = [
     degree: "Intermediate (12th)",
     institution: "Sri Krishnaveni Jr College",
     year: "2021 - 2023",
-    grade: "9.83%",
+    grade: "98.3%",
     isCurrent: false,
   },
   {
